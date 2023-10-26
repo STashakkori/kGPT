@@ -1,5 +1,5 @@
 # kGPT
-Kotlin GPT runner asks the AI what its purpose is by default. Tailor from there. Thank you Aallam
+Kotlin GPT runner asks the AI what its purpose is by default. Tailor from there. Thank you Aallam for the API
 
 ```
 HttpClient: RESPONSE: 200 
