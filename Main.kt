@@ -9,7 +9,7 @@ import com.aallam.openai.client.OpenAI
 import kotlinx.coroutines.runBlocking
 
 fun main(args: Array<String>) = runBlocking {
-    println("Running GPT Query)
+    println("Running GPT Query")
     val openAI = OpenAI(
         config = OpenAIConfig(
             token = "",
